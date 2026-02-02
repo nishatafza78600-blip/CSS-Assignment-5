@@ -1,0 +1,41 @@
+.max{
+    background-color: aqua !important;
+    max-width: 100%;
+}
+
+ .header{
+
+background-color: burlywood;
+}
+.links{
+     background-color: aquamarine;
+     margin-right:150px !important;
+     max-width: 50%;
+}
+.hero{
+    background-color: rgb(130, 213, 213);
+ }
+
+ .hero .icarts .cart{
+/* background-color: bisque; */
+ }
+
+  .hero .icarts{
+    margin-left: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
